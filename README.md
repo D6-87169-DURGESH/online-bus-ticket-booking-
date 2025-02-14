@@ -1,23 +1,7 @@
 # Go_Bus - Online Bus Ticket Booking System
 
-[![Vercel](https://vercelbadge.vercel.app/api/Sameer-Kadu/Go_Bus)](https://go-bus-oarm.vercel.app/)
-![Vercel](https://img.shields.io/github/deployments/Sameer-Kadu/Go_Bus/production?label=Vercel)  
-![License](https://img.shields.io/github/license/Sameer-Kadu/Go_Bus)  
-![Issues](https://img.shields.io/github/issues/Sameer-Kadu/Go_Bus)  
-![Stars](https://img.shields.io/github/stars/Sameer-Kadu/Go_Bus?style=social)  
-![Forks](https://img.shields.io/github/forks/Sameer-Kadu/Go_Bus?style=social)
-
 ## Screenshots
 ![Homepage](screenshots/homepage.png)
-
-
-
-  
-
-
-
-
-
 
 ## Overview
 Go_Bus is an online bus ticket booking platform designed to provide a seamless and efficient way for travelers to book bus tickets, operators to manage their buses, and administrators to oversee the entire system. The platform is built using **Spring Boot (backend)** and **React (frontend)**, with **Docker-based deployment** on an AWS **EC2 instance**.
@@ -131,10 +115,10 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 
 ## Contact
-- **Developer:** Sameer Vijayrao Kadu
-- **Email:** samirkadu8@gmail.com
-- **LinkedIn:** [linkedin.com/in/sameerkadu](https://www.linkedin.com/in/sameer-kadu/)
+- **Developer:** Durgesh Rajendra Ahire
+- **Email:** durgeshahire6403@gmail.com
+- **LinkedIn:** [https://www.linkedin.com/in/durgesh-ahire-04a575349/]
 
 ---
-Developed with ❤️ by Sameer Kadu
+Developed with ❤️ by Durgesh Ahire
 
