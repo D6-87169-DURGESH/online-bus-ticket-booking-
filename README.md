@@ -117,12 +117,8 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 ## Contact
 - **Developer:** Durgesh Rajendra Ahire
 - **Email:** durgeshahire6403@gmail.com
-<<<<<<< HEAD
 - **LinkedIn:** https://www.linkedin.com/in/durgesh-ahire-04a575349/
  
-=======
-- **LinkedIn:** [https://www.linkedin.com/in/durgesh-ahire-04a575349/]
->>>>>>> 629254839d96e6d8974d1d04e632c8873106ee84
 
 ---
 Developed with ❤️ by Durgesh Ahire
